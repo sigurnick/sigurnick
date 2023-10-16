@@ -19,7 +19,7 @@
 
 I have just completed an intensive training course at Epicode and am currently looking for work as a Junior Front End Web Developer.
 
-### My passions:
+### My Passions:
 
  💻 Technology <br>
  🎧 Music <br>
