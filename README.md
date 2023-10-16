@@ -1,7 +1,7 @@
 
 
 <a href="https://www.linkedin.com/in/nicolas-mastropietro-front-end-web-developer/">
-    <img src="https://ibb.co/HN6TCfs" alt="Logo" width="100%" >
+    <img src="https://i.postimg.cc/cHWjXjgz/Copertina-Github2.png" alt="Logo" width="100%" >
   </a>
 
 
