@@ -15,11 +15,11 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nicolas94.m@gmail.com)
 &nbsp;
 
-### 🙍‍♂️ About Me
+### About Me
 
 I have just completed an intensive training course at Epicode and am currently looking for work as a Junior Front End Web Developer.
 
-### 🤹‍♂️ My passions:
+### My passions:
 
  💻 Technology <br>
  🎧 Music <br>
@@ -28,7 +28,7 @@ I have just completed an intensive training course at Epicode and am currently l
  🎥 Movies, Tv Shows and Anime  <br>
  🍃 Nature and Animals  <br>
 
-### 🧑‍💻 My Skills
+### My Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-blue.svg?style=for-the-badge&logo=css3&logoColor=white)
