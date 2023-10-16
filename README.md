@@ -7,7 +7,7 @@
 
 
 
-## Hi There, I'm Nicolas Mastropietro
+## 🙋‍♂️ Hi There, I'm Nicolas Mastropietro
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sigurnick)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-mastropietro-front-end-web-developer/)
@@ -15,11 +15,11 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nicolas94.m@gmail.com)
 &nbsp;
 
-### :space_invader: &nbsp;About Me
+### 🙍‍♂️ About Me
 
 I have just completed an intensive training course at Epicode and am currently looking for work as a Junior Front End Web Developer.
 
-### My passions:
+### 🤹‍♂️ My passions:
 
  💻 Technology <br>
  🎧 Music <br>
