@@ -21,10 +21,11 @@ I have just completed an intensive training course at Epicode and am currently l
 
 ### My passions:
 
- 💻 Tecnology <br>
+ 💻 Technology <br>
+ 🎧 Music <br>
  👾 Videogames  <br>
  📚 Books, Manga  <br>
- 🎥 Movies and Tv Shows  <br>
+ 🎥 Movies, Tv Shows and Anime  <br>
  🍃 Nature and Animals  <br>
 
 ### 🧑‍💻 My Skills
